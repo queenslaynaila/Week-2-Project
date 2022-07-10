@@ -36,6 +36,29 @@ a.active {
 mid {
   text-align: center;
 }
+/* BUYING AND SELLING QUALITY FARM PRODUCE */
+
+.content {
+  display: flex;
+}
+
+#secondbutton {
+  padding: 10px;
+  color: white;
+  background-color: #ed6002;
+  border: none;
+}
+
+.container2 {
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  max-width: 40%;
+  padding: 20px;
+  align-content: center;
+}
+
+
 
 /*  WHY WE EXIST SECTION */
 .why {
