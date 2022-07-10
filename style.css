@@ -35,3 +35,15 @@ a.active {
 mid {
   text-align: center;
 }
+
+/*  WHY WE EXIST SECTION */
+.why {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-left: 50px;
+}
+
+img {
+  max-width: 60%;
+}
