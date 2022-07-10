@@ -27,6 +27,7 @@ button {
   background-color: #ff0000;
   padding: 10px;
   border: none;
+  cursor:pointer;
 }
 
 a.active {
