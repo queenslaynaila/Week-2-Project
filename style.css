@@ -106,3 +106,40 @@ span {
 .testimony>img{
   max-height:15%;
 }
+
+/* LAST SECTION STYLING */
+ul {
+  list-style: none;
+}
+
+.containerf {
+  background-color: #1a1919;
+  color: white;
+  text-align: center;
+}
+
+.lastfooter {
+  background-color: #1a1919;
+  display: flex;
+  color: white;
+}
+
+.section1 {
+  flex-grow: 2;
+  margin: 25px;
+}
+
+.company {
+  flex-grow: 0;
+}
+
+.products {
+  flex-grow: 0;
+}
+
+.others {
+  flex-grow: 0;
+  margin-left: 25px;
+}
+
+
