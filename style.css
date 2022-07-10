@@ -52,3 +52,57 @@ img {
 .category {
   text-align: center;
 }
+
+/* NEWEST AND POPULAR ITEM SECTION  */
+.popular,
+.newsection {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+img {
+  max-width: 65%;
+}
+
+one {
+  background-color: black;
+}
+
+span {
+  border-bottom: 3px solid orangered;
+}
+
+/*ESTEEMED CUTOMERS SECTION  */
+.customer , div p{
+  font-weight:700;
+}
+
+.testimonials{
+  display: flex;
+  justify-content:space-between;
+
+}
+
+.testimony{
+  margin-right:50px
+  padding:15px
+}
+
+#test{
+  text-align:right;
+  margin-right:50px
+  margin-left:50px;
+}
+.testimony{
+  box-sizing: content-box-box;
+  border-bottom;:0.8px solid #404040:
+/* /*    margin-right:10px; */
+/*    margin-left:10px; */
+   width:20%; 
+}
+
+.testimony>img{
+  max-height:15%;
+}
