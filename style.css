@@ -40,6 +40,8 @@ mid {
 
 .content {
   display: flex;
+  background-image:url("Assets/image\ 1.png");
+  background-size:contain;
 }
 
 #secondbutton {
