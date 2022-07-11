@@ -32,6 +32,10 @@ To run this projcet,clone this repository fom github
 [MIT](LICENCE)
 Copyright (c) 2022 Jema Queenslay Naila
 
+## LINK 
+The webpage is available at https://queenslaynaila.github.io/Week-2-Project/
+
 ## AUTHORS INFO
 
 For any query contact me at queenslayjema@gmail.com.
+
