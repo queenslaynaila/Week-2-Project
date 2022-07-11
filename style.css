@@ -104,6 +104,7 @@ one {
 
 span {
   border-bottom: 3px solid orangered;
+  padding-bottom: 5px;
 }
 
 /* EMPTY DIV */
