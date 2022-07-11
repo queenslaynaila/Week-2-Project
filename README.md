@@ -6,11 +6,11 @@ AgriPlus
 
 ## Table of Contents
 
-- [Description](#Description)
-- [Technologies used](#technology-used)
-- [Setup](#setup)
-- [Licence](#licence)
-- [Author info](#author-info)
+1. [Description](#description)
+2. [Technologies used](#technology-used)
+3. [Setup](#setup)
+4. [Licence](#licence)
+5. [Author info](#author-info)
 
 ## DESCRIPTION
 
@@ -32,10 +32,10 @@ To run this projcet,clone this repository fom github
 [MIT](LICENCE)
 Copyright (c) 2022 Jema Queenslay Naila
 
-## LINK 
+## LINK
+
 The webpage is available at https://queenslaynaila.github.io/Week-2-Project/
 
-## AUTHORS INFO
+## AUTHOR INFO
 
 For any query contact me at queenslayjema@gmail.com.
-
